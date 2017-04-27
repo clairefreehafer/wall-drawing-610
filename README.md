@@ -4,4 +4,4 @@ A recration in Processing of Sol Lewitt's [Wall Drawing 610](http://massmoca.org
 
 ![example image](img.png)
 
-![original](sol_lewitt_610.png)
+![original](sol_lewitt_610.jpg)
